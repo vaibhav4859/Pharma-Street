@@ -3,7 +3,7 @@
 ## Visit Pharma Street: https://pharma-street.web.app/
 
 ## 💊 Welcome to Pharma-Street!
-Pharma Stret is an online pharmacy store where you can order medicines. It is open source project so any contribution is appriciated.
+Pharma Street is an online pharmacy store where you can order medicines. It is open source project so any contribution is appriciated.
 
 Future Scope of this project involves user registration, authentication and building up a login, signup & update page to register a user into pharma-street by firebase and react libraries like formik(for form-validations)
 
