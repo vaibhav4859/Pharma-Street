@@ -19,4 +19,4 @@ This project is built in refrence with Maximilian's Udemy React Course (https://
 
 He built a food-order app in 11th and 17th module in this course and taking refrence from it and using firebase as a backend and API alternative, I built this pharmacy store named Pharma-street.
 
-My cretification regarding same course: https://www.udemy.com/certificate/UC-2990f818-1b10-4a56-b258-dc5de76c0c09/
+My certification regarding same course: https://www.udemy.com/certificate/UC-2990f818-1b10-4a56-b258-dc5de76c0c09/
